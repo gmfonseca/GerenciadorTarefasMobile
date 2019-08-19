@@ -6,6 +6,7 @@ Serviço para gerenciar tarefas
 ## Algumas orientações
 
 **Necessário alterar a URL do back-end para realizar as requisições**
+
 Localização:
 ```
 GerenciadorTarefasMobile > app > src > main > java
